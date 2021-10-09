@@ -4,8 +4,7 @@
   "description": "",
   "main": "fs-async.js",
   "scripts": {
-    "sart": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "nodemon app.js"
   },
   "author": "Kemecsei Kornel",
   "license": "ISC",
